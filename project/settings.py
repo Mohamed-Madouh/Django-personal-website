@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blag',
     'settings',
+    'django_summernote',
     
 ]
 
